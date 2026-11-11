@@ -7,6 +7,6 @@ $${\color{#033144} wip \space ok}$$
 
 
 
-
+$$\color{orange}{\text{This text is orange, }\href{https://github.com/Bryan-Hodukavich}{\text{alele}}\text{, and this is still orange.}}$$
 $${\color{#033144} ↑ \space me \space and [alele](https://github.com/Bryan-Hodukavich)ok? \space dats \space my \space bestest \space frie}$$
 </div>
