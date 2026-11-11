@@ -1,4 +1,4 @@
-$${\color{#033144} wip \space ok}$$
+$${\color{033144} wip \space ok}$$
 
 
 <div align="center">
@@ -7,7 +7,7 @@ $${\color{#033144} wip \space ok}$$
 
 
 
-$${\color{#234c68} ↑ \space me \space and \space aisha \space ok? \space dats \space my \space bestest \space frie}$$
+$${\color{234c68} ↑ \space me \space and \space aisha \space ok? \space dats \space my \space bestest \space frie}$$
 </div>
 
 <div align="center">
