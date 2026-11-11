@@ -8,5 +8,5 @@ $${\color{#033144} wip \space ok}$$
 
 
 
-$${\color{#033144} ↑ \space me \space and \space alele \space ok? \space dats \space my \space bestest \space frie}$$
+$${\color{#033144} ↑ \space me \space and \space [alele](https://github.com/Bryan-Hodukavich) \space ok? \space dats \space my \space bestest \space frie}$$
 </div>
